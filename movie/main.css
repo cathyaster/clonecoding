@@ -1,0 +1,12 @@
+*{
+  font-family: 'Jua', sans-serif;
+}
+
+body{
+  background-color: #333;
+}
+
+#jumbotron {
+  margin-top: 30;
+  text-align: center;
+}
